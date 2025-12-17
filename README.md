@@ -66,19 +66,10 @@ I’m a Frontend Engineer with years of experience as a full-time and freelancer
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+![](https://github-readme-stats.vercel.app/api?username=pahmi-alifya&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pahmi-alifya&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pahmi-alifya&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pahmi-alifya&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-
-</td><td valign="top" width="50%">
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pahmi-alifya&hide_border=true&layout=compact" align="right" /></div>
-
-</td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
